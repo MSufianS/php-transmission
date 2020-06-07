@@ -1,5 +1,5 @@
 {
-    "name": "irazasyed/php-transmission-sdk",
+    "name": "pianoly/php-transmission",
     "type": "library",
     "description": "A Transmission-RPC API SDK for PHP with Laravel Support",
     "keywords": [
@@ -10,13 +10,13 @@
         "laravel transmission",
         "php transmission client"
     ],
-    "homepage": "https://github.com/irazasyed/php-transmission-sdk",
+    "homepage": "https://github.com/PiaNoly/php-transmission",
     "license": "MIT",
     "authors": [
         {
-            "name": "Syed I.R.",
-            "email": "gh@lukonet.com",
-            "homepage": "https://github.com/irazasyed",
+            "name": "Sufian",
+            "email": "solusmy@gmail.com",
+            "homepage": "https://github.com/PiaNoly",
             "role": "Developer"
         }
     ],
