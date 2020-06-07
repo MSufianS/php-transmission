@@ -1,5 +1,5 @@
 {
-    "name": "pianoly/php-transmission",
+    "name": "pianoly/laravel-transmission",
     "type": "library",
     "description": "A Transmission-RPC API SDK for PHP with Laravel Support",
     "keywords": [
